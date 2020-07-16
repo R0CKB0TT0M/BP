@@ -1,7 +1,7 @@
 # BP
 quiz software written in python
 
-to play start by:
+to play start by running:
 
   -with gui
   
